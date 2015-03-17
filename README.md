@@ -14,7 +14,9 @@ generaposter.py "Liberating acoustic metadata: AcousticBrainz and Essentia" "Rob
 It generates a poster.pdf file in the current directory.
 
 ### Requirements
-You need to have the following fonts in your system:
+The `generaposter.py` script needs python3 and Inkscape.
+
+You also need to have the following fonts in your system:
 
 - [Hipster Script Pro](https://www.myfonts.com/fonts/sudtipos/hipster-script-pro/)
 - [Oxygen](http://www.fontsquirrel.com/fonts/oxygen)
