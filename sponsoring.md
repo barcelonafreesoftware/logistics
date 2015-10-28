@@ -4,19 +4,22 @@ We do this by making sure that projects have a channel to explain what they do a
 
 To make sure the group is sustainable, we've set up the following sponsorship program, with two levels of sponsorship.
 
-## Collaborator
+### Collaborator
 - 100 €/year
 - Logo and description on our website (under construction at the moment).
 - We can make some information about the organization available for the meetup attendants. Be it stickers, t-shirts or leaflets.
 - Announcement on the attendants mailing list and social media about the new sponsorship.
 
-## Patron
+### Patron
 - Everything in Collaborator
 - 500 €/year
 - Mention in Our Sponsors in http://www.meetup.com/Barcelona-Free-Software
 - We can bring your roll-up banner to the presentations.
 - Mention during the introduction before the talks.
 - Logo on the posters we provide for offline advertising.
+
+## Reach us
+If you are interested in being an sponsor, please contact us. You can find the email address on our website.
 
 ## Who are we?
 The Barcelona Free Software group is organized by KDE España organization. KDE España has been active as a non profit organization during the last 7 years spreading KDE and Free Software in Spain.
