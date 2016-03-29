@@ -1,11 +1,14 @@
 import sys
 import subprocess
 
+if len(sys.argv)<5:
+    print("usage: generaposter.py <title> <name> <date> <address>")
+    sys.exit(1)
+
 title = sys.argv[1]
 name = sys.argv[2]
 date = sys.argv[3]
-address  = sys.argv[4]
-print(sys.argv)
+address = sys.argv[4]
 
 f = open('BFSposter.svg')
 filecontents = f.read()
