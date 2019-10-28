@@ -1,5 +1,5 @@
 # unisex
-    S	 2
+    S	 1
 	M	11
 	L	8
 	XL	10
@@ -13,6 +13,6 @@
 Albert té totes les samarretes en stock
 
 # Donacions
-100 €
+110 €
 
 Albert té totes les donacions
