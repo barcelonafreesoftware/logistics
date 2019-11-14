@@ -8,11 +8,11 @@
 # dona
 	S	3
 	M	4
-	L	2
+	L	1
 
 Albert té totes les samarretes en stock
 
 # Donacions
-110 €
+120 €
 
 Albert té totes les donacions
