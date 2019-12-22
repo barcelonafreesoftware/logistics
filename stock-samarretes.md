@@ -11,8 +11,3 @@
 	L	1
 
 Albert té totes les samarretes en stock
-
-# Donacions
-120 €
-
-Albert té totes les donacions
