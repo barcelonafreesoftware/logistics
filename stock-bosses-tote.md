@@ -2,4 +2,4 @@
 
 Albert 13 bosses
 
-Aleix XX bosses
+Aleix 28 bosses
