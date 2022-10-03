@@ -1,7 +1,7 @@
 # unisex
     S	 1
 	M	10
-	L	5
+	L	4
 	XL	10
 	XXL	 5
 
