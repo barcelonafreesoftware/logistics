@@ -1,13 +1,13 @@
 # unisex
     S	 0
-	M	10
-	L	4
+	M	7
+	L	3
 	XL	10
-	XXL	 5
+	XXL	 4
 
 # dona
-	S	3
-	M	4
+	S	2
+	M	3
 	L	1
 
 Albert té totes les samarretes en stock
