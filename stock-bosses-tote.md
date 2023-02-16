@@ -1,5 +1,5 @@
 # Bosses tote
 
-Albert 5 bosses
+Albert 4 bosses
 
 Aleix 28 bosses
