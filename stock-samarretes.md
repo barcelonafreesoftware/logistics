@@ -2,7 +2,7 @@
     S	 0
 	M	5
 	L	2
-	XL	10
+	XL	9
 	XXL	 4
 
 # dona
