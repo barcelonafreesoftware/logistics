@@ -8,6 +8,6 @@
 # dona
 	S	2
 	M	3
-	L	1
+	L	0
 
 Albert té totes les samarretes en stock
