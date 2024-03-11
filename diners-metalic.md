@@ -1,4 +1,4 @@
 # Diners metàlic
-204,75
+235,75
 
 Albert té tots els diners en metàlic
