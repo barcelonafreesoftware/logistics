@@ -1,3 +1,3 @@
 # Bosses tote
 
-Albert 23 bosses
+Albert 22 bosses
